@@ -1,0 +1,14 @@
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.deps.json
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.json
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.dev.json
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.dll
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csprojAssemblyReference.cache
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csproj.CoreCompileInputs.cache
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cache
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cs
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfoInputs.cache
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfo.cs
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorTargetAssemblyInfo.cache
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.pdb
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.dll
+H:\NZMSA\NZMSA2019\DATABASE\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.pdb
